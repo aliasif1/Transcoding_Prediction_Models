@@ -1,0 +1,60 @@
+type: object
+required:
+- duration
+- fps
+- downscaled_bitrate
+- preset
+- height
+- downscaled_avg_si
+- downscaled_avg_ti
+- output_height
+- pixels
+- output_pixels
+- cores
+properties:
+  duration:
+    type: string
+    nullable: true
+  fps:
+    type: string
+    nullable: true
+  downscaled_bitrate:
+    type: string
+    nullable: true
+  preset:
+    type: string
+    nullable: true
+  height:
+    type: string
+    nullable: true
+  downscaled_avg_si:
+    type: string
+    nullable: true
+  downscaled_avg_ti:
+    type: string
+    nullable: true
+  output_height:
+    type: string
+    nullable: true
+  pixels:
+    type: string
+    nullable: true
+  output_pixels:
+    type: string
+    nullable: true
+  cores:
+    type: string
+    nullable: true
+nullable: true
+example:
+  duration: '1.0'
+  fps: '30.0'
+  downscaled_bitrate: '1338.0'
+  preset: veryfast
+  height: '2160.0'
+  downscaled_avg_si: '77.095'
+  downscaled_avg_ti: '10.350999999999999'
+  output_height: '720.0'
+  pixels: '8294400.0'
+  output_pixels: '921600.0'
+  cores: '5.0'

@@ -1,0 +1,1480 @@
+1 {
+  1 {
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4050000000000000
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4000000000000000
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x3fc0000000000000
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4000000000000000
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4050000000000000
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x3fc0000000000000
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x3fc0000000000000
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4000000000000000
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4050000000000000
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4000000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4050000000000000
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x3fc0000000000000
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x3fc0000000000000
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4000000000000000
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4050000000000000
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4030000000000000
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4010000000000000
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4030000000000000
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4010000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4030000000000000
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4010000000000000
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4010000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4030000000000000
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "enable_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_batch_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l1"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_hidden_layers"
+      2 {
+        2: 0x4010000000000000
+      }
+    }
+    1 {
+      1: "enable_layer_norm"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "hidden_layer_size"
+      2 {
+        2: 0x4030000000000000
+      }
+    }
+    1 {
+      1: "enable_numerical_embeddings"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "enable_embedding_l2"
+      2 {
+        4: 0
+      }
+    }
+    1 {
+      1: "num_cross_layers"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "dropout"
+      2 {
+        2: 0x0000000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "nn"
+      }
+    }
+    1 {
+      1: "normalized_numerical"
+      2 {
+        4: 1
+      }
+    }
+    1 {
+      1: "skip_connections_type"
+      2 {
+        3: "dense"
+      }
+    }
+    1 {
+      1: "enable_l2"
+      2 {
+        4: 0
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x4008000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4059000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x4008000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4059000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x4008000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4059000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4059000000000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x4008000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x4008000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4059000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4075e00000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4075e00000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4075e00000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4075e00000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4075e00000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4049000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fd3333340000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fd3333340000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4049000000000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fd3333340000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4049000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fd3333340000000
+      }
+    }
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4049000000000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+  }
+}
+1 {
+  1 {
+    1 {
+      1: "max_tree_depth"
+      2 {
+        2: 0x4022000000000000
+      }
+    }
+    1 {
+      1: "l1"
+      2 {
+        2: 0x3fd3333340000000
+      }
+    }
+    1 {
+      1: "num_trees"
+      2 {
+        2: 0x4049000000000000
+      }
+    }
+    1 {
+      1: "l2"
+      2 {
+        2: 0x3ff0000000000000
+      }
+    }
+    1 {
+      1: "tree_complexity"
+      2 {
+        2: 0x3fb99999a0000000
+      }
+    }
+    1 {
+      1: "model_type"
+      2 {
+        3: "boosted_trees"
+      }
+    }
+  }
+}

@@ -1,0 +1,24 @@
+type: object
+properties:
+  duration:
+    type: number
+  fps:
+    type: number
+  downscaled_bitrate:
+    type: number
+  preset:
+    type: number
+  height:
+    type: number
+  downscaled_avg_si:
+    type: number
+  downscaled_avg_ti:
+    type: number
+  output_height:
+    type: number
+  pixels:
+    type: number
+  output_pixels:
+    type: number
+  cores:
+    type: number
